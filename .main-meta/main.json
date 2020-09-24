@@ -3,10 +3,10 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-sample-accumulator",
+        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-sample-accumulator-mplab",
         "version": "1.0.0",
         "displayName": "ADC Sample Accumulator",
-        "projectName": "avr128da48-cnano-adc-sample-accumulator",
+        "projectName": "avr128da48-cnano-adc-sample-accumulator-mplab",
         "shortDescription": "This application showcases the sample accumulator feature of the ADC.",
         "ide": {
             "name": "MPLABX",
