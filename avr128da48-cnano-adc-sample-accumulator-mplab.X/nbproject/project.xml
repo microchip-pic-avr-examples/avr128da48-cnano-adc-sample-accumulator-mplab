@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>avr128da48-cnano-adc-sample-accumulator</name>
+            <name>avr128da48-cnano-adc-sample-accumulator-mplab</name>
             <creation-uuid>06d87231-e95d-4878-a813-b630b08facd4</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
