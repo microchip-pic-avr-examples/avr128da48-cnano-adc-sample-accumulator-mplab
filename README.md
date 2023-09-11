@@ -46,7 +46,7 @@ The AVR128DA48 Curiosity Nano Development Board is used as the test platform and
 To observe the results plotted on a graph, follow the steps provided in the [How to Use the Data Visualizer](#how-to-use-the-data-visualizer) chapter.
 
 Rotating the Potentiometer on the POT click board (after starting the application), the ADC result will be plotted on the graph:
-<br><img src="images/5.png" alt="Demo" width="800"/>
+<br><img src="images/dv_6.PNG" width="1000"/>
 
 ## Summary 
 
@@ -93,10 +93,10 @@ This chapter shows how to use the MPLAB X IDE to program an AVR® device with an
 <br><img src="images/dv_3.PNG" width="600">
 
 4. Configure the Variable Streamer Name and add the desired variable, then click **Next**:
-<br><img src="images/3.png" width="600">
+<br><img src="images/dv_4.png" width="600">
 
 5. Select all the variables to plot, select New axis per data type, and click **Finish**:
-<br><img src="images/4.png" width="600">
+<br><img src="images/dv_5.png" width="600">
 
 <br>
 
