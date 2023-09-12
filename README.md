@@ -2,7 +2,7 @@
  
 # Analog-to-Digital Converter (ADC) — Sample Accumulator Using the AVR128DA48 Microcontroller
 
-In this application, the ADC will accumulate samples, and then the result will be divided by the number of samples and transmitted through USART.
+In this application, the ADC will accumulate samples, then the result will be divided by the number of samples and transmitted through USART.
 The software diagram of this application is presented in the figure below.<br>
 <br><img src="images/soft_diagram.jpg" width="200">
 
@@ -21,7 +21,7 @@ The software diagram of this application is presented in the figure below.<br>
 
 ## Hardware Used
 
-- [AVR128DA48 Curiosity Nano](https://www.microchip.com/Developmenttools/ProductDetails/DM164151) Development Board is used as test platform:
+- [AVR128DA48 Curiosity Nano Development Board](https://www.microchip.com/Developmenttools/ProductDetails/DM164151) is used as test platform:
 <br><img src="images/AVR128DA48_CNANO.png" width="600">
 
 - [Curiosity Nano Adapter](https://www.microchip.com/en-us/development-tool/AC164162):
@@ -32,7 +32,7 @@ The software diagram of this application is presented in the figure below.<br>
 
 ## Setup
 
-The AVR128DA48 Curiosity Nano Development Board is used as the test platform and the Curiosity Nano Base for Click boards is used to integrate the POT Click board.
+The AVR128DA48 Curiosity Nano Development Board is used as a test platform. The Curiosity Nano Base for Click boards is used to integrate the POT Click board.
 
 <br>The following configurations must be made:
 
@@ -45,7 +45,7 @@ The AVR128DA48 Curiosity Nano Development Board is used as the test platform and
 
 To observe the results plotted on a graph, follow the steps provided in the [How to Use the Data Visualizer](#how-to-use-the-data-visualizer) chapter.
 
-Rotating the Potentiometer on the POT click board (after starting the application), the ADC result will be plotted on the graph:
+Rotate the Potentiometer on the POT Click board after starting the application, so that the ADC result will be plotted on the graph, as in the image below:
 <br><img src="images/dv_6.PNG" width="1000"/>
 
 ## Summary 
@@ -54,7 +54,7 @@ This application showcases the sample accumulator feature of the ADC.
 
 ##  How to Program the Curiosity Nano board
 
-This chapter shows how to use the MPLAB X IDE to program an AVR® device with an `Example_Project.X`. This can be applied for any other projects. 
+This chapter shows how to use the MPLAB® X IDE to program an AVR® device with an `Example_Project.X`. This can be applied for any other projects. 
 
 1. Connect the board to the PC.
 
@@ -71,7 +71,7 @@ This chapter shows how to use the MPLAB X IDE to program an AVR® device with an
 5. Select AVRxxxxx Curiosity Nano in the Connected Hardware Tool section of the project settings:
   <br>Right click on the project and click Properties.
   <br>Click on the arrow under the Connected Hardware Tool.
-  <br>Select the AVRxxxxx Curiosity Nano (click on the SN).
+  <br>Select the AVRxxxxx Curiosity Nano by clicking on the SN.
   <br>Click **Apply** and then **OK**.
   <br><img src="images/Program_Tool_Selection.PNG" width="600">
 
